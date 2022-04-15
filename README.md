@@ -22,7 +22,7 @@
 
 # red-pak: an Ultra Light Weight Container for embedded applications
 
-<iframe src="test.txt" frameBorder="0"></iframe>
+<iframe src="test.txt" frameBorder="0"> <p>Votre navigateur ne supporte aucune iframe !</p></iframe>
 
 ## Important note
 Red-pak is Work-In-progress.
