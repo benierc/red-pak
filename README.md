@@ -1,6 +1,6 @@
 <!-- vim-markdown-toc GFM -->
 
-<embed type="text/plain" src='images/test.txt' width="500" height="200"></embed>
+<embed type="text/plain" src='test.txt' width="100%" height=500>OKOK</embed>
 
 * [red-pak: an Ultra Light Weight Container for embedded applications](#red-pak-an-ultra-light-weight-container-for-embedded-applications)
     * [Important note](#important-note)
