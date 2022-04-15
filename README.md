@@ -1,8 +1,6 @@
 <!-- vim-markdown-toc GFM -->
 
-<iframe src="test.txt" frameBorder="0">
-<p>Votre navigateur ne supporte aucune iframe !</p>
-</iframe>
+<embed type="text/plain" src='images/test.txt' width="500" height="200"></embed>
 
 * [red-pak: an Ultra Light Weight Container for embedded applications](#red-pak-an-ultra-light-weight-container-for-embedded-applications)
     * [Important note](#important-note)
